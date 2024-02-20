@@ -1,9 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T08:00:48.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.0.2" etag="ML1lcay2cpOsOOeIqBCh" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T08:15:24.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zlQ9Py98IfoidzOL5yRQ" version="23.0.2" type="github">
   <diagram name="第 1 页" id="yx06ZcPLTlMnIziqWakJ">
-    <mxGraphModel>
+    <mxGraphModel dx="2068" dy="2760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="djHkldvo9EYnu07o0TKE-2" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="-1048" width="404" height="1101" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-3" value="定时任务" style="swimlane;startSize=20;" vertex="1" parent="djHkldvo9EYnu07o0TKE-2">
+          <mxGeometry x="20" width="202" height="1101" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-32" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="djHkldvo9EYnu07o0TKE-3">
+          <mxGeometry x="46" y="100" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-4" value="工作台-dsf" style="swimlane;startSize=20;" vertex="1" parent="djHkldvo9EYnu07o0TKE-2">
+          <mxGeometry x="222" width="182" height="1101" as="geometry">
+            <mxRectangle x="140" width="32" height="1525" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-5" value="Redis" style="swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1438" y="-1048" width="180" height="1101" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-13" value="数据库-DB" style="swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1258" y="-1048" width="180" height="1101" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-10" target="djHkldvo9EYnu07o0TKE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-12" target="djHkldvo9EYnu07o0TKE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-15" target="djHkldvo9EYnu07o0TKE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-17" target="djHkldvo9EYnu07o0TKE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-21" target="djHkldvo9EYnu07o0TKE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-23" target="djHkldvo9EYnu07o0TKE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-25" target="djHkldvo9EYnu07o0TKE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-26" target="djHkldvo9EYnu07o0TKE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-6" value="每分钟的第&lt;br&gt;30s触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="-851" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-8" value="调用工作台dsf接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="-775" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-10" value="组合&lt;font color=&quot;#ff0000&quot;&gt;上分钟&lt;/font&gt;的时间key" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="-732" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-12" value="获取分钟&lt;br&gt;总调用数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1483" y="-732" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-15" value="存入DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="-658" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-17" value="存入DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="-589" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-19" value="获取上分钟&lt;br&gt;每秒调用量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="-516" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-21" value="循环比较出&lt;br&gt;最大调用量的&lt;br&gt;时间key" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="-418" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-23" value="获取秒级&lt;br&gt;调用数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1478" y="-418" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-26" value="存入DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="-288" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-30" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="-177" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-25" value="存入DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="-329" width="76" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-6" target="djHkldvo9EYnu07o0TKE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-8" target="djHkldvo9EYnu07o0TKE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-19" target="djHkldvo9EYnu07o0TKE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djHkldvo9EYnu07o0TKE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djHkldvo9EYnu07o0TKE-32" target="djHkldvo9EYnu07o0TKE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
