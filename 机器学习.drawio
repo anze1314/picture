@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T03:17:54.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NUS6wk8oq8OdCWX5q-8i" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T03:36:47.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-wlDTpsRF8ScWqwQe3CR" version="23.1.5" type="github">
   <diagram name="第 1 页" id="V6Wf8vCctmhzEl7cb85Y">
-    <mxGraphModel dx="1366" dy="1651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="1784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="215" y="-669" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uvXD6td7eJxN7eKBJt4l-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;机器学习&lt;/font&gt;" style="text;strokeColor=#a5ff99;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="861" y="-398" width="80" height="30" as="geometry" />
+          <mxGeometry x="370" y="-12" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uvXD6td7eJxN7eKBJt4l-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;机器学习&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="113" y="-61" width="80" height="30" as="geometry" />
@@ -103,6 +103,42 @@
               <mxPoint x="695" y="-793" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;x&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="789" y="-584.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-61" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;targetPerimeterSpacing=6;strokeWidth=5;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="546" y="-560.75" as="sourcePoint" />
+            <mxPoint x="546" y="-631.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-67" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;targetPerimeterSpacing=6;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="533" y="-594.75" as="sourcePoint" />
+            <mxPoint x="838" y="-598" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-54" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-608.5" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=5.55;fillColor=#00CCCC;" vertex="1" parent="1">
+          <mxGeometry x="718" y="-611" width="27" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=5.55;fillColor=#00CCCC;" vertex="1" parent="1">
+          <mxGeometry x="607" y="-611" width="27" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-609.75" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-60" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=5.55;fillColor=#00CCCC;" vertex="1" parent="1">
+          <mxGeometry x="573" y="-611" width="27" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-611" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="uvXD6td7eJxN7eKBJt4l-68" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;（新闻推荐）&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="-423" width="113" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
