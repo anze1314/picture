@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T07:35:48.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.0.1" etag="YvC1BwnsRYLASfc1pepi" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T08:16:14.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="b7Xunb_iQ6E3EiM2GbQS" version="24.0.1" type="github">
   <diagram name="第 1 页" id="xLOp-ihmfFmxPzWH3ALX">
-    <mxGraphModel>
+    <mxGraphModel dx="1509" dy="1221" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rSefcifIViUokDj7dQya-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.skype_for_business_room_system;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="352.5" width="125" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-3" value="" style="fillColor=#dddddd;rounded=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="352" y="-94" width="1229" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-4" value="需求评审" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#10739E;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="352" y="-104" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-5" value="技术设计" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="552" y="-104" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-6" value="开发" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#AE4132;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=center;spacingLeft=10;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="712" y="-104" width="313" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-7" value="测试" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=center;spacingLeft=10;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="-108" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-8" value="上线" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#12AAB5;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1461" y="-104" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#10739E&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;4.20&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#10739e&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;产品主持会议进行&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;需求评审&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="352" y="-193" width="122" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#F2931E&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;4.20&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;进行&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;技术方案设计&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="563" y="-45" width="101" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#AE4132&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;4.27-5.15&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;正式开发&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="768.5" y="-200" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#23445D&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;5.15-5-25&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;进入测试&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="-26" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#12AAB5&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;5.25&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;上线成功&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="-195" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-14" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#10739E;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="-263" width="70" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-15" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#10739E;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="643" y="-295" width="87" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-16" value="4.25&lt;div&gt;进行&lt;/div&gt;&lt;div&gt;技术方案评审&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="633" y="-275" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-17" value="5.15&lt;div&gt;进行&lt;span style=&quot;background-color: initial;&quot;&gt;冒烟&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="986.5" y="-245" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-18" value="拆分&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#00ff00&quot;&gt;29&lt;/font&gt;人天的&lt;div style=&quot;font-size: 14px;&quot;&gt;开发任务，并根据模块&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;拆分给三位负责的RD。&lt;/div&gt;" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipH=1;html=1;fillColor=#10739E;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="713.5" y="145" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-19" value="&amp;nbsp; &amp;nbsp; 主持技术方案评审、冒烟和上线计划方案编写等&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#00ff00&quot;&gt;关键节点&lt;/font&gt;，确保需求顺利&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;进行。&lt;/div&gt;" style="shape=mxgraph.basic.diag_round_rect;dx=37;html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="873.5" y="145" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-20" value="&amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#00ff00&quot;&gt;每周&lt;/font&gt;发送项目周报，汇报&lt;div style=&quot;font-size: 14px;&quot;&gt;项目进度。&lt;/div&gt;" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipH=1;flipV=1;html=1;fillColor=#AE4132;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="713.5" y="305" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-21" value="需求开发期间每周主持&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#00ff00&quot;&gt;两次&lt;/font&gt;晨会，把控项目进度，规避项目风险。&lt;/div&gt;" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipV=1;html=1;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="873.5" y="305" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="846" y="-125" width="45" height="410.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-23" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.verification_service;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="166.5" width="85" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;" vertex="1" parent="1">
+          <mxGeometry x="555" y="170" width="73" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="rSefcifIViUokDj7dQya-25" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.subscription_portal;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="544.5" y="340" width="94" height="101" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
