@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T02:09:12.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.2" etag="-9tDogfmNcdbebmbhDJD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T02:57:14.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AHQot1pQmyE5rQQcOhIu" version="24.0.2" type="github">
   <diagram name="第 1 页" id="2wSL_ujX2RWrNQeLZlG_">
-    <mxGraphModel>
+    <mxGraphModel dx="2000" dy="1053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-6" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-302" y="42" width="812" height="602" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-33" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="63" y="109" width="209" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;撞单申诉模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="344.25" y="15" width="123.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-30" value="图片处理" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="101" y="256" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-31" value="审批人查找" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="101" y="326" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;申诉前置&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;处理模块&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="94.75" y="126" width="123.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-36" value="申诉场景&lt;div&gt;判断&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="101" y="185.99999999999994" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-37" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="453" y="109" width="304" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-38" value="日志记录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="474" y="185.99999999999997" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-39" value="消息提醒" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="623" y="180.99999999999994" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;审批&lt;/font&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="538.75" y="126" width="123.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-41" value="异步任务&lt;div&gt;记录状态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="478" y="293.99999999999994" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-42" value="线索合并" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="628" y="289.99999999999994" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-43" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="60.25" y="497" width="699.75" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-45" value="DB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="107" y="512.5" width="243" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-44" value="ES" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-6">
+          <mxGeometry x="460" y="512.5" width="245" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-7" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="598" y="369" width="215" height="273" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;流程引擎&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=3;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-7">
+          <mxGeometry x="63" y="9" width="95" height="13.6" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-10" value="流程发起/撤销" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-7">
+          <mxGeometry x="50" y="52" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-11" value="流程查询" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-7">
+          <mxGeometry x="50" y="132" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-12" value="流程审批" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=18;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-7">
+          <mxGeometry x="50" y="211" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-23" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="598" y="42" width="215" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;MQ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=3;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-23">
+          <mxGeometry x="70" y="9.671594684385383" width="75" height="5.3322259136212615" as="geometry" />
+        </mxCell>
+        <mxCell id="T7n9L5t_mj-feWoLTKtX-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;流程状态变更&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="T7n9L5t_mj-feWoLTKtX-23">
+          <mxGeometry x="50" y="41" width="115" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
